@@ -2,9 +2,9 @@
 
 /**
  * _abs - Entry point
- * @int: n is an integer
+ * @n: n is an integer
  * Description: prints the absolute value of an integer
- * Return: The absolute value of the integer.
+ * Return: integer
  */
 
 int _abs(int n)

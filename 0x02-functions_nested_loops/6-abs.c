@@ -4,10 +4,10 @@
  * _abs - Entry point
  * @int: n is an integer
  * Description: prints the absolute value of an integer
- * Return: int
+ * Return: The absolute value of the integer.
  */
 
-int _abs(int)
+int _abs(int n)
 {
 	if (n >= 0)
 		return (n);
